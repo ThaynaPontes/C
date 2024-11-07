@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include "calculos.h"
+//O comando ../ faz a saída da pasta atual(src), e lib é a pasta onde está o arquivo de cabeçalho calculos.h//
+#include "../lib/calculos.h"
 
 int main(){
     int valores[] = {5,23,5,7,10,4,12};
