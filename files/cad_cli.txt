@@ -1,1 +1,4 @@
-Thayna
+Nome: Thayna
+Email:thayna@gmail.com
+Idade: 24
+-----------
